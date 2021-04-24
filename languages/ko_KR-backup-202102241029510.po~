@@ -1,0 +1,719 @@
+# Translation of Themes - TheFour Lite in Vietnamese
+# This file is distributed under the same license as the Themes - TheFour Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-26 03:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Themes - TheFour Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-24 14:32+0000\n"
+"Last-Translator: Phú Nguyễn\n"
+"Language-Team: Korean\n"
+"X-Loco-Version: 2.4.2; wp-5.3.2"
+
+#: index.php:25 index1.php:25
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#: index.php:36 search.php:25 index1.php:36
+msgid "&larr; Previous"
+msgstr ""
+
+#: index.php:37 search.php:26 index1.php:37
+msgid "Next &rarr;"
+msgstr ""
+
+#: footer1.php:25
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer1.php:25
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer1.php:27
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: 404.php:13
+msgid ""
+"It seems like you have tried to open a page that doesn't exist. You are "
+"welcome to search for what you are looking for with the form below."
+msgstr ""
+
+#: functions.php:53
+msgid "Header"
+msgstr ""
+
+#: functions.php:81
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:82
+msgid "Main sidebar that appears on the right."
+msgstr ""
+
+#: functions.php:90
+msgid "Footer"
+msgstr ""
+
+#: functions.php:91
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:132
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own language.
+#: functions.php:140
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#. To add an additional character subset specific to your language,
+#. translate this to 'greek', 'cyrillic', 'devanagari' or 'vietnamese'. Do not translate into your own language.
+#: functions.php:148
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:12
+msgid "Enter keyword here"
+msgstr ""
+
+#: searchform.php:15
+msgid "Search"
+msgstr ""
+
+#: header1.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: comments.php:26
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:26
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:39
+msgid "&larr; Older comments"
+msgstr ""
+
+#: comments.php:40
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: comments.php:48
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/template-tags.php:16 inc/template-tags.php:30
+#: template-parts/content.php:32
+#, php-format
+msgid "Continue reading &rarr; %s"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: inc/template-tags.php:82
+#, php-format
+msgid "%1$s by %2$s &mdash; in %3$s."
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:85
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post
+#: inc/template-tags.php:102
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/custom-header.php:29
+msgid "Work Space"
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:29
+msgid "Features Page"
+msgstr ""
+
+#: inc/customizer.php:33
+msgid ""
+"The content of this page will be displayed below the hero area on your "
+"static front page."
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Call To Action Section Content"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid ""
+"Use this section to display special offers for your products or services."
+msgstr ""
+
+#: inc/customizer.php:55 inc/customizer.php:213 template-parts/home/blog.php:27
+#: template-parts/home/blog.php:28
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Blog Section Title"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Number Of Blogs In blog Section"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Do not display blog section"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid "Image"
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "Displayed at the bottom of a static front page."
+msgstr ""
+
+#: inc/customizer.php:120
+msgid "Image Section Title"
+msgstr ""
+
+#: inc/customizer.php:203
+msgid "You must select valid number"
+msgstr ""
+
+#: template-parts/hero.php:46
+#, php-format
+msgid "Search results: \"%s\""
+msgstr ""
+
+#: template-parts/hero.php:49
+msgid "Not found"
+msgstr ""
+
+#: template-parts/content.php:13
+msgid "Featured"
+msgstr ""
+
+#: template-parts/content.php:48
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:50
+msgid "Page"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:23
+#, php-format
+msgid "Ready to publish your first post? %s."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid "Get started here"
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:36
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: sna/functions.php:4
+msgid "Quick Links Menu"
+msgstr ""
+
+#: sna/functions.php:10
+msgid "Bottom Menu"
+msgstr ""
+
+#. Name of the template
+msgid "SNA default"
+msgstr ""
+
+#. Name of the template
+msgid "SNA Who Are We"
+msgstr ""
+
+#. Name of the template
+msgid "SNA Photo page"
+msgstr ""
+
+#. Name of the template
+msgid "SNA Configuration"
+msgstr ""
+
+#. Name of the template
+msgid "SNA Book a visit page"
+msgstr ""
+
+#. Name of the template
+msgid "SNA Annual Calendar page"
+msgstr ""
+
+#. Name of the template
+msgid "Grid"
+msgstr ""
+
+#. Name of the template
+msgid "SNA Leadership Team page"
+msgstr ""
+
+#. Name of the template
+msgid "SNA E-Brochure page"
+msgstr ""
+
+#. Name of the template
+msgid "SNA Video page"
+msgstr ""
+
+#. Name of the template
+msgid "SNA News page"
+msgstr ""
+
+#. Name of the template
+msgid "SNA Virtual Tour page"
+msgstr ""
+
+#. Name of the template
+msgid "SNA Working at SNA page"
+msgstr ""
+
+#. Name of the template
+msgid "SNA Contact page"
+msgstr ""
+
+#. Name of the template
+msgid "SNA Vision and Mission page"
+msgstr ""
+
+#. Name of the template
+msgid "SNA E-Handbook page"
+msgstr ""
+
+#. Name of the template
+msgid "SNA Faculty page"
+msgstr ""
+
+#: templates/sna-faculty.php:51
+msgid "Overview"
+msgstr "Overview"
+
+#: inc/customizer-pro/class-thefour-lite-customizer-pro.php:71
+msgid "Ready For More?"
+msgstr ""
+
+#: inc/customizer-pro/class-thefour-lite-customizer-pro.php:72
+msgid "Upgrade To PRO"
+msgstr ""
+
+#: inc/customizer-pro/class-thefour-lite-customizer-pro.php:85
+msgid "Need Some Help?"
+msgstr ""
+
+#: inc/customizer-pro/class-thefour-lite-customizer-pro.php:86
+msgid "Need help setting up your site?"
+msgstr ""
+
+#: inc/admin/plugins.php:32
+msgid "Jetpack"
+msgstr ""
+
+#: inc/admin/plugins.php:36
+msgid "Slim SEO"
+msgstr ""
+
+#. theme name and theme slug.
+#: inc/dashboard/class-thefour-lite-dashboard.php:119
+#, php-format
+msgid ""
+"Please rate <strong>%1$s</strong> <a href=\"https://wordpress."
+"org/support/theme/%2$s/reviews/?filter=5\" target=\"_blank\">&#9733;&#9733;"
+"&#9733;&#9733;&#9733;</a> on <a href=\"https://wordpress."
+"org/support/theme/%2$s/reviews/?filter=5\" target=\"_blank\">WordPress."
+"org</a> to help us spread the word. Thank you from GretaThemes!"
+msgstr ""
+
+#. theme name and welcome page.
+#: inc/dashboard/class-thefour-lite-dashboard.php:134
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s. To get started, visit our <a "
+"href=\"%2$s\">welcome page</a>."
+msgstr ""
+
+#. theme name.
+#: inc/dashboard/class-thefour-lite-dashboard.php:141
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: inc/dashboard/class-thefour-lite-dashboard.php:161
+msgid "Install The Required Plugins"
+msgstr ""
+
+#. theme name.
+#: inc/dashboard/class-thefour-lite-dashboard.php:163
+#, php-format
+msgid ""
+"%s needs some plugins to working properly. Please install and activate our "
+"required plugins."
+msgstr ""
+
+#: inc/dashboard/class-thefour-lite-dashboard.php:164
+msgid "Install Plugins"
+msgstr ""
+
+#. theme name.
+#: inc/dashboard/class-thefour-lite-dashboard.php:168
+#, php-format
+msgid "%1$s needs %2$s to working properly. Please install and activate it."
+msgstr ""
+
+#. plugin name.
+#: inc/dashboard/class-thefour-lite-dashboard.php:170
+#, php-format
+msgid "Install %s"
+msgstr ""
+
+#: inc/dashboard/class-thefour-lite-dashboard.php:177
+msgid "You have installed and active all required plugins"
+msgstr ""
+
+#. plugin name.
+#: inc/dashboard/class-thefour-lite-dashboard.php:180
+#, php-format
+msgid "<strong>%s has been installed and activated</strong>"
+msgstr ""
+
+#: sna/pages/news.php:20
+msgid "Features"
+msgstr "Features (ko)"
+
+#: sna/pages/news.php:57
+msgid "ALL"
+msgstr "All (ko)"
+
+#: sna/pages/e-brochure.php:37
+msgid "Preview PDF"
+msgstr ""
+
+#: sna/pages/faculty-tabs.php:26
+msgid "Email"
+msgstr ""
+
+#: sna/pages/faculty-tabs.php:39
+msgid "Nationality"
+msgstr ""
+
+#: sna/pages/faculty-tabs.php:40
+msgid "Teaching Experience"
+msgstr ""
+
+#: sna/pages/faculty-tabs.php:41
+msgid "Qualifications"
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:14
+msgid "Lite"
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:15
+msgid "PRO"
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:21
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:22
+msgid ""
+"Works in any browsers on desktops, tablets and mobile devices and optimized "
+"for speed."
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:29
+msgid "Front Page Sections"
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:30
+msgid "Easy to setup your static front page with content sections."
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:37
+msgid "Custom Logo"
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:38
+msgid ""
+"Supports custom logo in WordPress 4.5. Upload your logo has never been "
+"easier."
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:45
+msgid "1-Click Demo Import"
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:46
+msgid ""
+"Save time setting up the theme and get exactly what you see in the demo."
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:53
+msgid "Custom Google Fonts"
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:54
+msgid ""
+"Integrated all Google Fonts with various options to customize for a "
+"beautiful typography."
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:61
+msgid "Custom Colors"
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:62
+msgid "Customize colors of any element on your website."
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:69
+msgid "Infinite Scroll"
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:70
+msgid ""
+"Load more posts when to reach to the end of the page. Support auto mode and "
+"manual mode."
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:77
+msgid "Portfolio"
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:78
+msgid ""
+"Create awesome portfolio with Jetpack and show them beautifully in the "
+"frontend."
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:85
+msgid "Testimonial"
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:86
+msgid ""
+"Show the testimonials from your customers to build the trust for your "
+"products and services."
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:93
+msgid "Priority Support"
+msgstr ""
+
+#: inc/dashboard/sections/pro.php:94
+msgid ""
+"You will benefit of our full support for any issues you have with the theme."
+msgstr ""
+
+#. pro theme name.
+#: inc/dashboard/sections/pro.php:105
+#, php-format
+msgid "Get %s PRO now"
+msgstr ""
+
+#: inc/dashboard/sections/tabs.php:10
+msgid "Getting Started"
+msgstr ""
+
+#: inc/dashboard/sections/tabs.php:11
+msgid "Actions"
+msgstr ""
+
+#: inc/dashboard/sections/tabs.php:12
+msgid "Free vs. PRO"
+msgstr ""
+
+#: inc/dashboard/sections/upgrade.php:10
+msgid "Upgrade to PRO Version"
+msgstr ""
+
+#: inc/dashboard/sections/upgrade.php:11
+msgid ""
+"Please upgrade to the PRO plan to unlock more awesome features. You can "
+"check them out <a class=\"action-links\" href=\"#pro\">here</a>."
+msgstr ""
+
+#. theme name.
+#: inc/dashboard/sections/upgrade.php:15
+#, php-format
+msgid "Get %s Pro now"
+msgstr ""
+
+#: inc/dashboard/sections/actions.php:21
+msgid "Connect Your Site To Jetpack"
+msgstr ""
+
+#. theme name.
+#: inc/dashboard/sections/actions.php:25
+#, php-format
+msgid ""
+"%s uses Jetpack to support featured content, social menu. Connect to Jetpack "
+"to use these features as well as variety of other tools."
+msgstr ""
+
+#: inc/dashboard/sections/actions.php:28
+msgid "Connect To Jetpack"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:12
+msgid "Implement Recommended Actions"
+msgstr ""
+
+#. theme name.
+#: inc/dashboard/sections/getting-started.php:16
+#, php-format
+msgid ""
+"We have made a list of steps for you, to make sure you will get the most of "
+"%s. They are easy to follow."
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:20
+msgid "Recommended Actions"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:23
+msgid "Customize The Theme"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:24
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:26
+msgid "Start Customize"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:29
+msgid "Read Full Documentation"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:30
+msgid ""
+"Need any help to setup and configure the theme? Please check our full "
+"documentation for detailed information on how to use it."
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:32
+msgid "Read Documentation"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:37
+msgid "screenshot"
+msgstr ""
+
+#. %1$s - Theme name, %2$s - Theme version.
+#: inc/dashboard/sections/welcome.php:12
+#, php-format
+msgid "Welcome to %1$s"
+msgstr ""
+
+#. theme slug.
+#: inc/dashboard/sections/welcome.php:19
+#, php-format
+msgid ""
+"Please rate us <a href=\"https://wordpress.org/support/theme/%1$s/reviews/?"
+"filter=5\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a "
+"href=\"https://wordpress.org/support/theme/%1$s/reviews/?filter=5\" "
+"target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you "
+"from GretaThemes!"
+msgstr ""
+
+#. Author of the theme
+#: inc/dashboard/sections/welcome.php:26
+msgid "GretaThemes"
+msgstr ""
+
+#: inc/dashboard/sections/welcome.php:29
+msgid "Documentation"
+msgstr ""
+
+#: inc/dashboard/sections/welcome.php:30
+msgid "Support"
+msgstr ""
+
+#: sna/template-parts/home/home.php:20 sna/template-parts/home/home.php:30
+msgid "FIND OUT MORE"
+msgstr ""
+
+#: sna/template-parts/home/home.php:139
+msgid "News & Event"
+msgstr "News & Event (ko)"
+
+#: sna/template-parts/home/home.php:140 sna/template-parts/home/home.php:168
+msgid "Read more"
+msgstr ""
+
+#. Name of the theme
+msgid "TheFour Lite"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"TheFour is a beautiful, creative and responsive theme for bloggers, "
+"designers and businesses. Features responsive design, retina-ready assets, "
+"impressive hero image, custom logo, page templates and translation-ready "
+"code."
+msgstr ""
+
+#. URI of the theme
+msgid "https://gretathemes.com/wordpress-themes/thefour/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://gretathemes.com"
+msgstr ""
