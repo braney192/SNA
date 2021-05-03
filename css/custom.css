@@ -95,6 +95,9 @@ section.contact-home .form-box input[name=email], section.contact-home .form-box
 .ib-program.bg-section + .core_slider-style--1 {
 	padding-top: 0px;
 }
+.book-a-visit .content-book-visit {
+	width: 820px;
+}
 
 @media screen and (max-width: 768px) {
 	.main-banner__slider--video{
