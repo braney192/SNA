@@ -255,3 +255,8 @@ if ( ! function_exists( 'wp_body_open' ) ) {
 	}
 }
 
+function admin_default_page() {
+	return '/wp-admin/index.php';
+}
+
+add_filter('login_redirect', 'admin_default_page');
